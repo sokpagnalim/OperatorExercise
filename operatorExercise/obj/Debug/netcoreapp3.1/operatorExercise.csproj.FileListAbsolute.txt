@@ -1,0 +1,14 @@
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\obj\Debug\netcoreapp3.1\operatorExercise.csproj.AssemblyReference.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\obj\Debug\netcoreapp3.1\operatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\obj\Debug\netcoreapp3.1\operatorExercise.AssemblyInfoInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\obj\Debug\netcoreapp3.1\operatorExercise.AssemblyInfo.cs
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\obj\Debug\netcoreapp3.1\operatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\bin\Debug\netcoreapp3.1\operatorExercise.exe
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\bin\Debug\netcoreapp3.1\operatorExercise.deps.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\bin\Debug\netcoreapp3.1\operatorExercise.runtimeconfig.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\bin\Debug\netcoreapp3.1\operatorExercise.runtimeconfig.dev.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\bin\Debug\netcoreapp3.1\operatorExercise.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\bin\Debug\netcoreapp3.1\operatorExercise.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\obj\Debug\netcoreapp3.1\operatorExercise.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\obj\Debug\netcoreapp3.1\operatorExercise.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\operatorExercise\operatorExercise\obj\Debug\netcoreapp3.1\operatorExercise.genruntimeconfig.cache
